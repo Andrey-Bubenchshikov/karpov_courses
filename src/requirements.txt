@@ -10,3 +10,6 @@ seaborn==0.12.0
 statsmodels==0.13.2
 xlrd==2.0.1
 plotly==5.11.0
+gspread==5.4.0
+df2gspread==1.0.4
+
