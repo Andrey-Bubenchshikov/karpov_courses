@@ -14,3 +14,4 @@ gspread==5.4.0
 df2gspread==1.0.4
 pandahouse==0.2.7
 pingouin==0.5.2
+tqdm==4.64.1
